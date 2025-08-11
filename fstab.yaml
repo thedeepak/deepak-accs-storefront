@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/thedeepak/deepak-accs-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
